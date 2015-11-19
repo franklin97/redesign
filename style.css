@@ -6,6 +6,10 @@
     font-family:sans-serif;
     color:white;
 }
+body{
+    background-image:url("http://31.media.tumblr.com/b8e64a425c8210c0c524806687aa5fb6/tumblr_nmqb7pIpJH1rxp34uo1_500.gif");
+    background-size:cover;
+}
 
  .col-md-2 {
     background-color:#585858;
@@ -13,4 +17,25 @@
 
 .row2 {
     text-align:center;
+}
+.row4 {
+    text-align:center;
+    color:red;
+    font-family:Italic;
+    font-size:50px;
+    
+}
+#main-part{
+    text-align:center;
+}
+.first-pic{
+    height:80px;
+    width:80px;
+    
+}
+.box{
+    background-color:#262626;
+}
+#red{
+    color:red;
 }
